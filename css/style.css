@@ -1,0 +1,25 @@
+.icon {
+    background: url(../image/icon-final.png) 0 0 no-repeat;
+    width: 60px;
+    height: 60px;
+    display: inline-block;
+}
+
+.icon.icon-mail {
+    background-position: 0 0;
+}
+.icon.icon-plane {
+    background-position: -60px 0;
+}
+.icon.icon-toolbox {
+    background-position: -120px 0;
+}
+.icon.icon-phone {
+    background-position: 0 -60px;
+}
+.icon.icon-idea {
+    background-position: -60px -60px;
+}
+.icon.icon-position {
+    background-position: -120px -60px;
+}
